@@ -20,6 +20,7 @@
 "love_date": "2022-09-04",
 # 金句中文，如果设置了，则会显示这里的，如果为空，默认会读取金山的每日金句
 "note_ch": "今天也是因为老婆而陷入初恋的一天",
+"note_ch": "知识是心灵的眼睛",
 # 金句英文
 "note_en": "Knowledge is the eyes of the mind"
 
