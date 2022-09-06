@@ -19,7 +19,7 @@
 # 在一起的日子，格式同上，暂不不支持农历
 "love_date": "2022-09-04",
 # 金句中文，如果设置了，则会显示这里的，如果为空，默认会读取金山的每日金句
-"note_ch": "Knowledge is the eyes of the mind./知识是心灵的眼睛",
+"note_ch": "Knowledge is the eyes of the mind./n知识是心灵的眼睛",
 # 金句英文
 "note_en": "今天也是因为老婆而陷入初恋的一天"
 
